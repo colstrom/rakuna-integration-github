@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'rakuna-core', '~> 1.0'
-gem 'octokit', '~> 4.1'
+gem 'octokit', '~> 4.2'
 
 group :development do
   gem 'bundler', '~> 1.10'
